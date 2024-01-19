@@ -1,1 +1,3 @@
-Mi nombre es Edwing
+Nombre : Edwing
+Celular : 99999999
+Empresa : Braillard
